@@ -21,6 +21,7 @@ The repository contains exercise files as assigned by ALX full stack software en
 * Virtual box
 * Ubuntu 20.04 LTS
 ## Projects
-1. 0x00-hello_world 
+1. 0x00-hello_world
+2. 0x01-variables_if_else_while
 ## Credits
 Collaborators are acknowledged within each project.
