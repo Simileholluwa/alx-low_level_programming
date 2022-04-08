@@ -6,11 +6,13 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-    char str[] = "\"Programming is like building a multilingual puzzle";
+	char str1[52];
 
-    puts(str);
+	strcpy(str1, "\"Programming is like building a multilingual puzzle");
+	puts(str1);
 
-    return (0);
+	return (0);
 }
