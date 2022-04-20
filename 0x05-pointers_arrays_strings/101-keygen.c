@@ -1,6 +1,6 @@
 /*
  * File: 101-keygen.c
- * 
+ *
  */
 
 #include <stdio.h>
