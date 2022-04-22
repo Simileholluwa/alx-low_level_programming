@@ -2,10 +2,10 @@
 #define MAIN_H
 
 /**
- * File: main.h
+ *File: main.h
  *
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x05-pointers_arrays_strings directory.
+ *Desc: Header file containing prototypes for all functions
+ *      used in the 0x05-pointers_arrays_strings directory.
  */
 
 int _putchar(char c);
