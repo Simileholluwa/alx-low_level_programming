@@ -10,9 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-	int mul;
-
-	int p, q;
+	int mul, p, q;
 
 	p = atoi(argv[1]);
 	q = atoi(argv[2]);
